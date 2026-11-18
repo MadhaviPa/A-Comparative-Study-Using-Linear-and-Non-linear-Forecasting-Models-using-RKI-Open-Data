@@ -1,0 +1,11 @@
+# Raw source data and generated outputs
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+.Rhistory
+.RData
+.Rproj.user/
+*.html
+*.log
+.DS_Store
