@@ -1,4 +1,4 @@
-# A Comparative Study Using Linear and Non-linear Forecasting Models
+# A Comparative Study Using Linear and Non-linear Forecasting Models using RKI Open Data - SARS-CoV-2 Infektionen in Deutschland
 
 **Case Studies – Project 3 | TU Dortmund University | Summer Semester 2026**
 
