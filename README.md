@@ -3,6 +3,7 @@
 **Case Studies – Project 3 | TU Dortmund University | Summer Semester 2026**
 
 **Authors**:  Madhavi Panchangum
+
 ** Project group:** Madhavi Panchangum, Lutz Arne Weiland, Tahereh Rahmani, and Yagiz Ünal.
 
 ## Overview
