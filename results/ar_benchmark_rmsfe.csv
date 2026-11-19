@@ -1,0 +1,7 @@
+model,design,rmsfe_cases
+AR(10),fixed,199.76
+AR(10),expanding,202.05
+AR(10),rolling,202.55
+AR(7),fixed,223.19
+AR(7),expanding,217.49
+AR(7),rolling,215.45

@@ -1,0 +1,13 @@
+design,comparison,dm_statistic,p_value_reported
+expanding,RF (Model 2) vs AR(10),4.893,<0.001
+expanding,RF (Model 2) vs AR(7),4.768,<0.001
+expanding,RF (Model 2) vs Linear ARX (Model 1),2.435,0.015
+expanding,RF (Model 2) vs Linear ARX (Model 2),2.296,0.022
+expanding,RF (Model 2) vs RF (Model 1),4.351,<0.001
+expanding,RF (Model 2) vs RF (All covariates),4.702,<0.001
+rolling,RF (Model 1) vs AR(10),4.76,<0.001
+rolling,RF (Model 1) vs AR(7),4.882,<0.001
+rolling,RF (Model 1) vs Linear ARX (Model 1),2.406,0.016
+rolling,RF (Model 1) vs Linear ARX (Model 2),2.273,0.023
+rolling,RF (Model 1) vs RF (Model 2),0.48,0.632
+rolling,RF (Model 1) vs RF (All covariates),0.233,0.816

@@ -1,0 +1,5 @@
+specification,expanding_rmsfe,rolling_rmsfe
+Lagged cases only,187.66,181.99
+Model 1,142.42,140.57
+Model 2,140.65,143.38
+All covariates,142.13,141.14

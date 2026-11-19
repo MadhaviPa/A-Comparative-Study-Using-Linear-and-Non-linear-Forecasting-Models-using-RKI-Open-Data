@@ -1,0 +1,11 @@
+specification,fixed_rmsfe,expanding_rmsfe,rolling_rmsfe
+Lagged cases only,200.12,202.24,202.57
+Public holiday,181.42,162.94,159.02
+Temperature,200.33,202.16,202.59
+Reporting delay,199.14,201.66,202.28
+Start of week,207.79,202.13,198.64
+Gender shares,200.84,200.89,212.9
+Age shares,200.9,231.6,206.51
+All covariates,171.03,164.31,158.55
+Model 1,173.51,165.17,159.14
+Model 2,171.5,164.75,158.47
