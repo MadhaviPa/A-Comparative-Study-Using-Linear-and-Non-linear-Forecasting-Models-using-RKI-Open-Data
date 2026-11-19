@@ -4,7 +4,7 @@
 
 **Authors**:  Madhavi Panchangum
 
-** Project group:** Madhavi Panchangum, Lutz Arne Weiland, Tahereh Rahmani, and Yagiz Ünal.
+**Project group**: Madhavi Panchangum, Lutz Arne Weiland, Tahereh Rahmani, and Yagiz Ünal.
 
 ## Overview
 
