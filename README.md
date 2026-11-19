@@ -85,7 +85,7 @@ covid19-cases-forecasting-germany/
 
 ## Figures and results
 
-The `figures/` files are **full-page excerpts of the final report** showing the original analytical graphics, not newly executed plots. CSVs in `results/` are **transcriptions of published tables from the final report**, including AR benchmarks, linear models, regression trees, random forests, and selected DM tests. Refer to the report for precise interpretations and additional seasonal analyses.
+The `figures/` files are  the original analytical graphics. CSVs in `results/` are **transcriptions of published tables from the final report**, including AR benchmarks, linear models, regression trees, random forests, and selected DM tests. Refer to the report for precise interpretations and additional seasonal analyses.
 
 ## Report
 
